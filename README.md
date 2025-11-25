@@ -1,4 +1,4 @@
- # 👋 Hola, soy Daniel Mendiola  
+ # Hola, soy Daniel Mendiola  
 ### CTO · Arquitecto Cloud · Data Scientist · Especialista GTO · LATAM Tech Leader
 
 Ingeniero con más de **20 años liderando soluciones empresariales en LATAM**, integrando **arquitectura cloud**, **ciencia de datos aplicada**, **IA/ML**, y **optimización organizacional (GTO)** para transformar la eficiencia y escalabilidad de empresas que operan a gran volumen.
