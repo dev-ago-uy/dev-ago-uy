@@ -1,75 +1,76 @@
  # 👋 Hola, soy Daniel Mendiola  
 ### CTO · Arquitecto Cloud · Data Scientist · Especialista GTO · LATAM Tech Leader
 
-Ingeniero con más de **20 años liderando soluciones tecnológicas de alto impacto en LATAM**, combinando **arquitectura cloud**, **IA/ML aplicado**, **data science**, y **optimización organizacional (GTO)** para transformar la eficiencia operativa de empresas que manejan grandes volúmenes.
+Ingeniero con más de **20 años liderando soluciones empresariales en LATAM**, integrando **arquitectura cloud**, **ciencia de datos aplicada**, **IA/ML**, y **optimización organizacional (GTO)** para transformar la eficiencia y escalabilidad de empresas que operan a gran volumen.
 
-Fundador y arquitecto de **VitaCRM**, **BestRoute**, **AGo ERP**, **VikyFly** y **LinaPlatform**, diseñando plataformas integradas que unen logística, eCommerce, mensajería, flujos omnicanal e inteligencia artificial aplicada.
+Fundador y arquitecto de **VitaCRM**, **BestRoute**, **AGo ERP**, **VikyFly** y **LinaPlatform**, donde combino Ciencia de Datos, automatización inteligente, flujos omnicanal, logística avanzada y sistemas de decisión basados en datos en tiempo real.
 
-Mi enfoque: unir **Gestión + Tecnología + Organización** para construir compañías más eficientes, más inteligentes y totalmente basadas en datos.
+Mi enfoque: unir **Gestión + Tecnología + Organización** para construir compañías más eficientes, más inteligentes y totalmente data-driven.
 
 ---
 
 ## 🚀 Enfoque profesional
 
 - **Arquitectura Cloud (AWS Well-Architected)**  
-  Diseño escalable, seguridad, optimización de costos, alta disponibilidad y SaaS multi-tenant.
+  Diseño escalable, seguridad, gobernanza, optimización de costos y SaaS multi-tenant.
 
 - **Ciencia de Datos & Machine Learning aplicado**  
-  Modelos no supervisados, clustering, NLP, predicción, métricas vectoriales, optimización matemática.
+  Modelos no supervisados, clustering, NLP, forecasting, regresiones, métricas vectoriales, optimización matemática y sistemas de recomendación.
 
 - **Eficiencia Organizacional – GTO**  
-  Reingeniería de procesos, estandarización operativa, automatización, escalamiento organizacional.
+  Reingeniería de procesos, automatización, integración operativa, escalamiento y estandarización empresarial.
 
-- **Logística inteligente & ruteo**  
-  Plataformas en tiempo real, geo-clustering, asignación dinámica, movilidad operativa con cientos de móviles.
+- **Logística inteligente & ruteo dinámico**  
+  Geo-clustering, algoritmos de ruteo, SSE en tiempo real, movilidad operativa de alta concurrencia.
 
-- **Automatización y bots híbridos (IA + humanos)**  
-  WhatsApp API, OpenAI, embeddings, clasificación inteligente de documentos, flujos asincrónicos.
+- **Automatización empresarial (IA + Workflow)**  
+  WhatsApp Business API, OpenAI, embeddings, clasificación inteligente de documentos, flujos asincrónicos y asistentes híbridos.
 
 - **Sistemas empresariales integrados**  
-  ERP, CRM, eCommerce, contabilidad, fiscalización electrónica, reporting financiero.
+  ERP, CRM, eCommerce, contabilidad, finanzas, fiscalización electrónica multi-país.
 
 ---
 
-### 🎓 Formación avanzada
+## 🎓 Formación avanzada
 
-**Postgrados internacionales en Machine Learning, Inteligencia Artificial y Matemáticas para Ciencia de Datos**  
-Formación profesional avanzada en modelos ML, optimización, series de tiempo, NLP, álgebra lineal aplicada, probabilidad, SVD, PageRank, sistemas de recomendación y clustering.
+### **Postgrados internacionales en Machine Learning, Inteligencia Artificial y Matemáticas para Ciencia de Datos**
+Formación profesional avanzada en modelos ML, optimización, NLP, series de tiempo, álgebra lineal aplicada, probabilidad, SVD, PageRank, clustering y sistemas de recomendación.
 
-**Certificación profesional en Integración y Arquitectura con OpenAI**  
-Asistentes inteligentes, embeddings, automatización CRM, flujos asincrónicos y prompt engineering aplicado a entornos empresariales de alto volumen.
+### **Certificación profesional en Integración y Arquitectura con OpenAI**
+Especialización en asistentes inteligentes, embeddings, automatización CRM, flujos asincrónicos y prompt engineering aplicado a entornos empresariales de alto volumen.
 
-**Formación en Arquitectura y Optimización en AWS**  
-Buenas prácticas Well-Architected, diseño escalable, resiliencia, control de costos y gobernanza cloud.
+### **Especialización en Arquitectura y Optimización en AWS**
+Diseño cloud escalable, buenas prácticas Well-Architected, control de costos, resiliencia y gobernanza en la nube.
 
-**Ingeniería en Sistemas**  
-Base sólida en arquitectura de software, diseño de plataformas y entornos de misión crítica.
+### **Ingeniería en Sistemas**
+Fundamentos sólidos en arquitectura, ingeniería de software, estructuras críticas y diseño de plataformas de misión crítica.
 
 ---
 
 ## 🧠 Experiencia profesional
 
-### CTO & Fundador – AGo ERP SAS
-Plataforma ERP/CRM multi-tenant que integra logística, contabilidad, finanzas, eInvoicing multi-país, trazabilidad y automatización de procesos.  
-Diseño sobre AWS, validaciones transaccionales, alta disponibilidad y procesamiento de millones de órdenes anuales.
+### **CTO & Fundador – AGo ERP SAS**
+Plataforma ERP/CRM multi-tenant con logística, contabilidad, finanzas, eInvoicing multi-jurisdicción, trazabilidad y automatización de procesos.  
+Infraestructura sobre AWS con alta disponibilidad y procesamiento masivo (millones de registros/órdenes anuales).
 
-### Co-fundador – VitaCRM
-CRM inteligente con funnels, campañas, tickets, IA integrada y automatizaciones.  
-Homologación Meta BSP, integración con WhatsApp API y OpenAI.
+### **Co-fundador – VitaCRM**
+CRM inteligente con funnels, ticketing, campañas, IA aplicada y automatizaciones empresariales.  
+Homologación Meta BSP, integración con WhatsApp Business API y OpenAI.
 
-### Co-fundador & Arquitecto de Producto – BestRoute
-Plataforma operativa de logística y auxilio vehicular con dashboards de KPIs, análisis geográfico, SSE en tiempo real y ruteo dinámico.
+### **Co-fundador & Arquitecto de Producto – BestRoute**
+Plataforma operativa para asistencia vehicular y logística avanzada.  
+Dashboards de KPIs, geo-clustering dinámico, análisis en tiempo real (SSE) y optimización de ruteo.
 
-### Creador – VikyFly & LinaPlatform
-Mensajería omnicanal, automatización comercial, integración con eCommerce y flujos empresariales inteligentes.
+### **Creador – VikyFly & LinaPlatform**
+Sistemas omnicanal y automatización comercial con integración embebida en eCommerce mediante APIs REST y JavaScript.
 
 ---
 
 ## 📦 Productos creados
 
 - **VitaCRM** – CRM, funnels, tickets, campañas, IA.  
-- **BestRoute** – Ruteo, operaciones logísticas, movilidad en tiempo real.  
-- **AGo ERP** – ERP/CRM multi-tenant, fiscalización electrónica, contabilidad y proveedores.  
+- **BestRoute** – Logística avanzada, ruteo y movilidad en tiempo real.  
+- **AGo ERP** – ERP/CRM multi-tenant, fiscalización electrónica, finanzas y stock.  
 - **VikyFly** – Mensajería omnicanal y automatización.  
 - **LinaPlatform** – Orquestación comercial, workflows y chatbots híbridos.
 
@@ -83,7 +84,7 @@ PHP · JavaScript · Python · C# · SQL
 ### Cloud & DevOps  
 AWS (EC2, EB, Lambda, S3, IAM, VPC, Auto Scaling, CloudWatch) · Docker · CI/CD
 
-### Data Science / ML  
+### Ciencia de Datos / ML  
 NumPy · Pandas · Scikit-Learn · NLP · LDA · PCA · Redes neuronales · Forecasting · Q-learning
 
 ### Backend / Frontend  
@@ -101,17 +102,17 @@ WhatsApp Business API · OpenAI API · Embeddings · Clasificación inteligente 
 
 - Más de **2 millones de órdenes procesadas anualmente**.  
 - **+200 móviles georreferenciados** operando en tiempo real.  
-- Optimización de **reportes financieros y bancarios** con ahorros comprobables.  
+- Ahorros significativos mediante **optimización de reportes financieros**.  
 - Implementación de **facturación electrónica multi-jurisdicción** en LATAM.  
-- Desarrollo de algoritmos de **ruteo dinámico y clustering geográfico**.  
-- Construcción de ecosistemas **omnicanal con IA integrada**.
+- Diseño de algoritmos de **ruteo dinámico y clustering geográfico**.  
+- Construcción de ecosistemas **omnicanal con IA aplicada**.
 
 ---
 
 ## 🌎 Contacto
 
-- 🌐 https://www.agoerp.com  
-- ✉️ dmendiola@agoerp.com  
-- 📞 +598 91 944 444  
+- 🌐 Web: https://www.agoerp.com  
+- ✉️ Email: dmendiola@agoerp.com  
+- 📞 WhatsApp: +598 91 944 444  
 
 ---
