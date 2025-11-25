@@ -1,44 +1,46 @@
 # 👋 Hola, soy Daniel Mendiola  
-### CTO · Arquitecto de Soluciones · ML/AI Applied · GTO Specialist · LATAM Tech Leader
+### CTO · Arquitecto de Soluciones · Data Science Practitioner · AWS & GTO Specialist · LATAM Tech Leader
 
-Soy Ingeniero y CTO enfocado en construir plataformas empresariales de alto impacto: ERP, CRM, logística inteligente, datos, automatización y ecosistemas conectados a gran escala.
+Soy Ingeniero y CTO con foco en **transformación organizacional**, escalamiento tecnológico y eficiencia operacional.  
+Diseño e implemento **plataformas empresariales de alto impacto**: ERP, CRM, logística inteligente, automatización comercial, sistemas de trazabilidad y ecosistemas conectados a gran escala.
 
-Integro arquitectura AWS, modelos de machine learning, optimización de procesos y visión GTO (Gestión · Tecnología · Organización) para que las empresas operen con eficiencia real.
+Integro **arquitectura AWS**, **machine learning aplicado**, **data science**, visión **GTO (Gestión · Tecnología · Organización)** y liderazgo técnico para crear empresas más eficientes, ordenadas y orientadas a decisiones basadas en datos.
 
 ---
 
 ## 🚀 Áreas principales
-- **Arquitectura Cloud (AWS Well-Architected)**
-- **Machine Learning & AI aplicado**  
-  Modelos no supervisados (LDA, clustering, PCA), optimización, series de tiempo, métricas vectoriales.
-- **Data Science & Métricas**
-  SLA · NPS · CSAT · DAX · Data pipelines operativos.
-- **Logística Inteligente & Rutas**
-  Optimización, asignación, operaciones masivas LATAM.
-- **Mensajería & Automatización**
-  WhatsApp Business API, flujos inteligentes, triggers y bots híbridos (LIA).
-- **Eficiencia Operativa GTO**
-  Procesos, organización, automación, decisiones estratégicas.
-- **Sistemas empresariales**
-  ERP/CRM, e-commerce, contabilidad, finanzas, auditoría, traceabilidad.
+- **Arquitectura Cloud (AWS Well-Architected)**  
+  Diseño, seguridad, escalabilidad, costos y mejores prácticas.
+- **Data Science & Machine Learning**  
+  LDA · clustering · regresiones · NLP · optimización · análisis estadístico aplicado.
+- **Eficiencia Organizacional (GTO)**  
+  Reingeniería de procesos, automatización, escalamiento, estructura operativa.
+- **Logística Inteligente & Rutas**  
+  Optimización, asignación dinámica, movilidad y operaciones masivas en LATAM.
+- **Mensajería & Automatización Empresarial**  
+  WhatsApp Business API, triggers, workflows, bots híbridos, comunicación inteligente.
+- **Sistemas empresariales**  
+  ERP/CRM, e-commerce avanzado, contabilidad, finanzas, auditoría y data governance.
 
 ---
 
-## 🎓 Formación técnica especializada
+## 🎓 Formación técnica especializada (sin horas)
 - **Machine Learning & AI for the Working Analyst – Bourbaki**  
-  (96 horas: sistemas de recomendación, LDA, clustering, modelos generativos, métrica del coseno)
+  Enfoque en modelos no supervisados, sistemas de recomendación, LDA, series de tiempo y métricas vectoriales.
 - **Matemáticas para la Ciencia de Datos – Bourbaki**  
-  (59 horas: probabilidad avanzada, álgebra lineal, SVD, Markov, PageRank, optimización convexa)
+  Probabilidad avanzada, álgebra lineal, optimización, SVD, PageRank y cadenas de Markov.
 
 ---
 
 ## 🧠 Enfoque técnico
-Me especializo en convertir datos, procesos y arquitectura en sistemas que:
-- escalan,
-- reducen tiempos,
-- automatizan decisiones,
-- operan de forma segura y robusta,
-- y generan impacto inmediato en productividad.
+Me especializo en construir soluciones que combinan ingeniería, datos y organización para:
+
+- escalar de forma sólida y sostenible,  
+- reducir tiempos y costos,  
+- automatizar decisiones,  
+- integrar áreas operativas con tecnología,  
+- aumentar productividad,  
+- y potenciar el crecimiento empresarial con enfoque GTO.
 
 ---
 
@@ -62,6 +64,6 @@ Me especializo en convertir datos, procesos y arquitectura en sistemas que:
 ## 🌎 Contacto
 - 🌐 https://www.agoerp.com  
 - ✉️ daniel@agoerp.com  
-- 💬 WhatsApp: +598 XX XXX XXX  
+- 💬 WhatsApp: +598 91 944 444  
 
 ---
