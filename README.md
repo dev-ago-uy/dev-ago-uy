@@ -111,8 +111,8 @@ WhatsApp Business API · OpenAI API · Embeddings · Clasificación inteligente 
 
 ## 🌎 Contacto
 
-- 🌐 Web: https://www.agoerp.com  
-- ✉️ Email: dmendiola@agoerp.com  
+- 🌐 Web: https://damendiola.tech
+- ✉️ Email: daniel@damendiola.tech  
 - 📞 WhatsApp: +598 91 944 444  
 
 ---
