@@ -31,19 +31,19 @@ Mi enfoque: unir **Gestión + Tecnología + Organización** para construir compa
 
 ---
 
-## 🎓 Formación avanzada
+### 🎓 Formación avanzada
 
-- **Postgrados en Machine Learning, Inteligencia Artificial y Matemáticas para Ciencia de Datos**  
-  Formación profesional avanzada en modelos ML, optimización, series de tiempo, NLP, álgebra lineal aplicada, probabilidad, SVD, PageRank, sistemas de recomendación y clustering.
+**Postgrados internacionales en Machine Learning, Inteligencia Artificial y Matemáticas para Ciencia de Datos**  
+Formación profesional avanzada en modelos ML, optimización, series de tiempo, NLP, álgebra lineal aplicada, probabilidad, SVD, PageRank, sistemas de recomendación y clustering.
 
-- **Certificación profesional en Integración y Arquitectura con OpenAI**  
-  Asistentes inteligentes, embeddings, automatización CRM, flujos asincrónicos, prompt engineering aplicado a entornos empresariales.
+**Certificación profesional en Integración y Arquitectura con OpenAI**  
+Asistentes inteligentes, embeddings, automatización CRM, flujos asincrónicos y prompt engineering aplicado a entornos empresariales de alto volumen.
 
-- **Formación en Arquitectura y Optimización en AWS**  
-  Buenas prácticas Well-Architected, diseño escalable, control de costos, gobernanza cloud.
+**Formación en Arquitectura y Optimización en AWS**  
+Buenas prácticas Well-Architected, diseño escalable, resiliencia, control de costos y gobernanza cloud.
 
-- **Ingeniería en Sistemas**  
-  Base sólida en arquitectura, software engineering y entornos de misión crítica.
+**Ingeniería en Sistemas**  
+Base sólida en arquitectura de software, diseño de plataformas y entornos de misión crítica.
 
 ---
 
