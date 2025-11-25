@@ -1,7 +1,7 @@
-# Hola, soy Daniel Mendiola  
+# 👋 Hola, soy Daniel Mendiola  
 ### CTO · Arquitecto Cloud · Data Scientist · Especialista GTO · LATAM Tech Leader
 
-Ingeniero en Sistemas con más de **20 años liderando soluciones empresariales en LATAM**, integrando **arquitectura cloud, modelos de IA/ML, data science**, y **optimización organizacional (GTO)** para crear plataformas escalables que transforman la operación de empresas de alto volumen.
+Ingeniero en Sistemas con más de **20 años liderando soluciones empresariales en LATAM**, integrando **arquitectura cloud, modelos de IA/ML, data science** y **optimización organizacional (GTO)** para crear plataformas escalables que transforman la operación de empresas de alto volumen.
 
 Fundador y arquitecto de **VitaCRM**, **BestRoute**, **AGo ERP**, **VikyFly** y **LinaPlatform**, aplicando IA, automatización inteligente, flujos omnicanal y análisis de datos en tiempo real sobre ecosistemas distribuidos.
 
@@ -9,117 +9,112 @@ Mi especialidad es unir **Gestión + Tecnología + Organización** para que las 
 
 ---
 
-# 🚀 Enfoque Profesional
-- **Arquitectura Cloud (AWS Well-Architected)**  
-  Diseño escalable, optimización de costos, seguridad, multi-tenant SaaS.
+## 🚀 Enfoque profesional
 
-- **Data Science & ML Aplicado**  
-  LDA · clustering · NLP · forecasting · regresiones · métricas vectoriales · optimización.
+- **Arquitectura Cloud (AWS Well-Architected)**  
+  Diseño escalable, optimización de costos, seguridad, SaaS multi-tenant.
+
+- **Data Science & Machine Learning aplicado**  
+  LDA, clustering, NLP, forecasting, regresiones, métricas vectoriales, optimización.
 
 - **GTO – Gestión · Tecnología · Organización**  
   Reingeniería operativa, estandarización, automatización, escalamiento organizacional.
 
 - **Logística inteligente & ruteo**  
-  Geo-clustering, ruteo dinámico, análisis en tiempo real, +200 móviles activos.
+  Geo-clustering, ruteo dinámico, análisis en tiempo real, operación de flotas con cientos de móviles.
 
 - **Automatización empresarial y bots híbridos**  
-  WhatsApp API, OpenAI, embeddings, clasificación inteligente de documentos.
+  WhatsApp API, OpenAI, embeddings, clasificación inteligente de documentos, flujos asincrónicos.
 
 - **Sistemas empresariales**  
-  ERP, CRM, eCommerce, facturación electrónica multi-país.
+  ERP, CRM, eCommerce, facturación electrónica multi-país, reporting financiero.
 
 ---
 
-# 🎓 Formación Académica y Técnica
-### **Postgrado – Machine Learning & AI for the Working Analyst** – Colegio Bourbaki, México  
-:contentReference[oaicite:6]{index=6}  
-Modelos no supervisados, sistemas de recomendación, LDA, series de tiempo, métricas vectoriales, optimización.
+## 🎓 Formación académica y técnica
 
-### **Postgrado – Matemáticas para la Ciencia de Datos** – Colegio Bourbaki, México  
-:contentReference[oaicite:7]{index=7}  
-Probabilidad avanzada, álgebra lineal, SVD, PageRank, cadenas de Markov, optimización convexa.
+- **Postgrado en Machine Learning & AI – Colegio Bourbaki, México**  
+  Modelos no supervisados, sistemas de recomendación, LDA, series de tiempo, métricas vectoriales, optimización.
 
-### **Certificación Profesional en OpenAI – Integración y Arquitectura IA**  
-:contentReference[oaicite:8]{index=8}  
-Asistentes inteligentes, embeddings, automatización CRM, flujos asincrónicos, prompt engineering.
+- **Postgrado en Matemáticas para la Ciencia de Datos – Colegio Bourbaki, México**  
+  Probabilidad avanzada, álgebra lineal, SVD, PageRank, cadenas de Markov, optimización convexa.
 
-### **Ingeniería en Sistemas** – ORT Uruguay  
-:contentReference[oaicite:9]{index=9}
+- **Certificación profesional en integración avanzada con OpenAI**  
+  Asistentes inteligentes, embeddings, automatización CRM, flujos asincrónicos, prompt engineering.
 
-### **Analista Genexus – Artech**  
-:contentReference[oaicite:10]{index=10}
+- **Ingeniería en Sistemas – Universidad ORT Uruguay**
 
-### **Especialización AWS (Arquitectura & Cost Optimization)**  
-:contentReference[oaicite:11]{index=11}
+- **Analista Genexus – Artech**
+
+- **Formación en AWS Well-Architected & Cost Optimization**  
+  Presupuestos, diseño escalable, control de costos y mejores prácticas en la nube.
 
 ---
 
-# 🧠 Experiencia Profesional
+## 🧠 Experiencia profesional
 
-### **CTO & Fundador – AGo ERP SAS (2000–Actualidad)**
-:contentReference[oaicite:12]{index=12}  
-Plataforma ERP/CRM multi-tenant, logística, validaciones transaccionales, eInvoicing multi-país, trazabilidad, automatización financiera y procesamiento masivo (+2M órdenes anuales).
+### CTO & Fundador – AGo ERP SAS (2000–Actualidad)
+Plataforma ERP/CRM multi-tenant para logística, retail y servicios.  
+Arquitectura cloud sobre AWS, validaciones transaccionales, facturación electrónica multi-país, trazabilidad y automatización de reportes bancarios y financieros. Procesamiento de millones de registros y órdenes fiscales anuales en LATAM.
 
-### **Co-fundador – VitaCRM (2022–Actualidad)**  
-CRM inteligente, funnels, ticketing, IA aplicada, automatizaciones, Meta BSP homologado.
+### Co-fundador – VitaCRM (2022–Actualidad)
+CRM inteligente con embudos de ventas, ticketing, campañas, automatizaciones y tableros ejecutivos.  
+Integración con OpenAI, WhatsApp API y plataforma homologada como BSP por Meta.
 
-### **Arquitecto de Producto – BestRoute (2019–Actualidad)**  
-KPIs operativos, SSE en tiempo real, mapas dinámicos, análisis geográfico adoptado por aseguradoras y operadores logísticos.
+### Co-fundador & Arquitecto de Producto – BestRoute (2019–Actualidad)
+Plataforma de logística y asistencia vehicular con dashboards de KPIs, geo-clustering, monitoreo en tiempo real (SSE) y análisis operativo para aseguradoras y operadores logísticos.
 
-### **Creador – VikyFly & LinaPlatform**  
-Mensajería omnicanal, bots híbridos, integración embebida con e-commerce vía APIs REST.
-
----
-
-# 📦 Productos creados
-- **VitaCRM**
-- **BestRoute**
-- **AGo ERP**
-- **VikyFly**
-- **LinaPlatform**
+### Creador – VikyFly & LinaPlatform
+Plataformas de mensajería omnicanal y automatización comercial inteligente, con integración embebida a sitios eCommerce mediante APIs REST y snippets JavaScript.
 
 ---
 
-# 🧰 Stack Técnico
+## 📦 Productos creados
 
-### **Lenguajes**
-PHP · JavaScript · Python
-
-### **Cloud & DevOps**
-AWS (EC2, EB, Lambda, IAM, S3, VPC, Auto Scaling, CloudWatch) · Docker · CI/CD · SaaS multi-tenant
-
-### **Data Science / ML**
-NumPy · Pandas · Scikit-Learn · NLP · LDA · PCA · redes neuronales · forecasting
-
-### **Backend / Frontend**
-Laravel · Lumen · Node.js · Bootstrap · C# · SQL Server · MySQL
-
-### **Bases de datos**
-MySQL · PostgreSQL · MongoDB · Redis
-
-### **Automatización & IA**
-WhatsApp API · OpenAI API · embeddings · clasificación inteligente · flujos asincrónicos
+- **VitaCRM** – CRM, embudos, tickets, campañas, automatizaciones.  
+- **BestRoute** – Logística, asistencia vehicular, ruteo y monitoreo.  
+- **AGo ERP** – ERP/CRM multi-tenant, facturación electrónica, contabilidad y stock.  
+- **VikyFly** – Mensajería y automatización omnicanal.  
+- **LinaPlatform** – Orquestación de flujos comerciales y canales digitales.
 
 ---
 
-# 🏆 Logros Relevantes
-- +2.000.000 de órdenes procesadas anualmente.  
-  :contentReference[oaicite:13]{index=13}
-- +200 móviles georreferenciados operando en tiempo real.  
-  :contentReference[oaicite:14]{index=14}
-- Optimización bancaria con ahorros verificables.  
-  :contentReference[oaicite:15]{index=15}
-- Integración eInvoicing multi-jurisdicción Latam.  
-  :contentReference[oaicite:16]{index=16}
-- Ruteo inteligente y clustering dinámico.  
-  :contentReference[oaicite:17]{index=17}
-- Automatización con IA y omnicanalidad integrada.  
-  :contentReference[oaicite:18]{index=18}
+## 🧰 Stack técnico
+
+### Lenguajes
+PHP · JavaScript · Python · C# · SQL
+
+### Cloud & DevOps
+AWS (EC2, Elastic Beanstalk, Lambda, S3, IAM, VPC, Auto Scaling, CloudWatch) · Docker · CI/CD · SaaS multi-tenant
+
+### Data Science / ML
+NumPy · Pandas · Scikit-Learn · NLP · LDA · PCA · redes neuronales · forecasting · Q-learning
+
+### Backend / Frontend
+Laravel · Lumen · Node.js · Bootstrap · HTML · CSS · JS
+
+### Bases de datos
+MySQL · PostgreSQL · MongoDB · Redis · SQL Server
+
+### Automatización & IA
+WhatsApp Business API · OpenAI API · embeddings · clasificación inteligente · flujos asincrónicos · SSE
 
 ---
 
-# 📊 Estadísticas (automático)
-> Reemplazar **TU_USUARIO** por tu usuario real
+## 🏆 Logros relevantes
+
+- Más de **2 millones de órdenes** procesadas anualmente.  
+- **+200 móviles** georreferenciados operando en tiempo real.  
+- Ahorros concretos mediante **optimización de reporting bancario y financiero**.  
+- Implementación de **facturación electrónica multi-jurisdicción** en varios países de LATAM.  
+- Diseño de algoritmos de **ruteo y clustering geográfico dinámico**.  
+- Construcción de ecosistemas **omnicanal con IA integrada** (WhatsApp, web, ERP, CRM).
+
+---
+
+## 📊 Estadísticas (automáticas)
+
+> Reemplaza `TU_USUARIO` por tu usuario real de GitHub.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
@@ -127,9 +122,10 @@ WhatsApp API · OpenAI API · embeddings · clasificación inteligente · flujos
 
 ---
 
-# 🌎 Contacto
-- 🌐 https://www.agoerp.com  
-- ✉️ dmendiola@agoerp.com  
-- 📞 +598 91 944 444  
+## 🌎 Contacto
+
+- 🌐 Web: https://www.agoerp.com  
+- ✉️ Email: dmendiola@agoerp.com  
+- 📞 WhatsApp: +598 91 944 444  
 
 ---
