@@ -1,3 +1,124 @@
+# 👋 Hi, I'm Daniel Mendiola  
+### CTO · Cloud Architect · Data Scientist · GTO Specialist · LATAM Tech Leader
+
+Systems Engineer with more than **20 years leading enterprise-grade technological solutions across LATAM**, combining **cloud architecture**, **applied data science**, **AI/ML engineering**, and **organizational optimization (GTO)** to transform efficiency, scalability and decision-making in high-demand environments.
+
+Founder and architect behind **VitaCRM**, **BestRoute**, **AGo ERP**, **VikyFly** and **LinaPlatform**, where I integrate Data Science, AI automation, omnichannel communication, logistics intelligence and real-time operational analytics.
+
+My focus: merging **Management + Technology + Organization** to build data-driven, efficient and scalable companies.
+
+---
+
+## 🚀 Professional Focus
+
+- **Cloud Architecture (AWS Well-Architected)**  
+  Scalable design, security, governance, cost optimization and multi-tenant SaaS environments.
+
+- **Applied Data Science & Machine Learning**  
+  Unsupervised learning, clustering, NLP, forecasting, regression, vector metrics, optimization and recommender systems.
+
+- **Operational Efficiency – GTO**  
+  Process reengineering, automation, organizational scaling, workflow integration and standardization.
+
+- **Intelligent Logistics & Dynamic Routing**  
+  Geo-clustering, operational mobility, real-time monitoring (SSE), route optimization and high-concurrency environments.
+
+- **Enterprise Automation (AI + Workflows)**  
+  WhatsApp Business API, OpenAI integrations, embeddings, document classification, asynchronous flows and hybrid assistants.
+
+- **Integrated Business Systems**  
+  ERP, CRM, eCommerce, finance, accounting, electronic invoicing and enterprise data governance.
+
+---
+
+## 🎓 Advanced Training
+
+### **International Postgraduate Studies in Machine Learning, Artificial Intelligence and Applied Mathematics for Data Science**  
+Professional-level training in ML models, optimization, NLP, time series, applied linear algebra, probability, SVD, PageRank, clustering and recommenders.
+
+### **Professional Certification in OpenAI Engineering & Applied AI Architecture**  
+Intelligent assistants, embeddings, CRM automation, asynchronous workflows and enterprise prompt engineering.
+
+### **Specialization in AWS Architecture & Optimization**  
+Well-Architected best practices, scalable cloud design, cost control, governance and resilience.
+
+### **Systems Engineering**  
+Strong foundations in software architecture, engineering principles and mission-critical platforms.
+
+---
+
+## 🧠 Professional Experience
+
+### **CTO & Founder – AGo ERP SAS**
+Enterprise ERP/CRM multi-tenant platform covering logistics, accounting, finance, multi-country eInvoicing, operational tracking and automation.  
+AWS-based architecture with high availability and large-scale data processing (millions of operational records and fiscal transactions annually).
+
+### **Co-founder – VitaCRM**
+Intelligent CRM with sales funnels, automations, ticketing, metrics and AI-assisted workflows.  
+Meta BSP certified, integrated with WhatsApp API and OpenAI.
+
+### **Co-founder & Product Architect – BestRoute**
+Operational logistics and roadside assistance platform.  
+Service KPIs, geo-clustering, real-time SSE analysis and optimized routing.
+
+### **Creator – VikyFly & LinaPlatform**
+Omnichannel messaging platforms with advanced automation and seamless eCommerce embedding via REST APIs and JavaScript.
+
+---
+
+## 📦 Products Created
+
+- **VitaCRM** – CRM, funnels, tickets, campaigns, AI.  
+- **BestRoute** – Logistics, routing and real-time mobility.  
+- **AGo ERP** – ERP/CRM multi-tenant, eInvoicing, finance and stock control.  
+- **VikyFly** – Omnichannel messaging and automation.  
+- **LinaPlatform** – Workflow orchestration, commercial flows and hybrid chatbots.
+
+---
+
+## 🧰 Technical Stack
+
+### Languages  
+PHP · JavaScript · Python · C# · SQL
+
+### Cloud & DevOps  
+AWS (EC2, EB, Lambda, S3, IAM, VPC, Auto Scaling, CloudWatch) · Docker · CI/CD
+
+### Data Science / ML  
+NumPy · Pandas · Scikit-Learn · NLP · LDA · PCA · Neural networks · Forecasting · Q-learning
+
+### Backend / Frontend  
+Laravel · Lumen · Node.js · Bootstrap · HTML · CSS · JS
+
+### Databases  
+MySQL · PostgreSQL · MongoDB · Redis · SQL Server
+
+### Automation & AI  
+WhatsApp Business API · OpenAI API · Embeddings · Document classification · Webhooks · SSE
+
+---
+
+## 🏆 Key Achievements
+
+- **2M+ operational orders processed annually**  
+- **200+ real-time geo-tracked mobile units**  
+- Proven **financial reporting optimization** with measurable ROI  
+- Multi-country **electronic invoicing** implementation in LATAM  
+- Algorithms for **dynamic routing and geographic clustering**  
+- Fully integrated **AI-driven omnichannel ecosystems**
+
+---
+
+## 🌎 Contact
+
+- 🌐 Website: https://www.agoerp.com  
+- ✉️ Email: dmendiola@agoerp.com  
+- 📞 WhatsApp: +598 91 944 444  
+
+---
+
+
+ 
  # Hola, soy Daniel Mendiola  
 ### CTO · Arquitecto Cloud · Data Scientist · Especialista GTO · LATAM Tech Leader
 
