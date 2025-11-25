@@ -117,7 +117,7 @@ WhatsApp Business API · OpenAI API · Embeddings · Document classification · 
 
 ---
 
-
+# 🇪🇸 Versión en Español
  
  # Hola, soy Daniel Mendiola  
 ### CTO · Arquitecto Cloud · Data Scientist · Especialista GTO · LATAM Tech Leader
